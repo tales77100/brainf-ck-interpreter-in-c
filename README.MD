@@ -1,5 +1,5 @@
-#BRAINF************************CK
+# BRAINF************************CK
 
-[Implementation]
+[ Implementation ]
 This interpreter is writen in C to clearly access the memory used in brainf*ck.
 this interpreter is writen in 148 lines of pure madness, i can make it smaller or bigger
