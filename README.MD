@@ -14,4 +14,4 @@ I was bored.
  Compilation
 -----------------
 
-Just use * cc main.c -o brainf'*'ck *
+Just use *cc main.c -o brainf'*'ck*
